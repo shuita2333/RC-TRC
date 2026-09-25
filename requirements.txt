@@ -1,0 +1,5 @@
+# Install a CUDA-compatible PyTorch 2.5.0 build separately.
+transformers==4.50.0
+numpy==1.26.4
+Pillow==11.1.0
+accelerate==1.1.0
